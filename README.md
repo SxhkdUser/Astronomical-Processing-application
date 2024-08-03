@@ -1,2 +1,1 @@
-# Astronomical Processing application
- 
+# Astronomical Processing application(Project For School)
