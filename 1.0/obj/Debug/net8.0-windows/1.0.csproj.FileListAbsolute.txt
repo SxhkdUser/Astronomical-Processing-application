@@ -1,0 +1,16 @@
+C:\Users\30105350\source\repos\1.0\bin\Debug\net8.0-windows\1.0.exe
+C:\Users\30105350\source\repos\1.0\bin\Debug\net8.0-windows\1.0.deps.json
+C:\Users\30105350\source\repos\1.0\bin\Debug\net8.0-windows\1.0.runtimeconfig.json
+C:\Users\30105350\source\repos\1.0\bin\Debug\net8.0-windows\1.0.dll
+C:\Users\30105350\source\repos\1.0\bin\Debug\net8.0-windows\1.0.pdb
+C:\Users\30105350\source\repos\1.0\obj\Debug\net8.0-windows\_1._0.Form1.resources
+C:\Users\30105350\source\repos\1.0\obj\Debug\net8.0-windows\1.0.csproj.GenerateResource.cache
+C:\Users\30105350\source\repos\1.0\obj\Debug\net8.0-windows\1.0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\30105350\source\repos\1.0\obj\Debug\net8.0-windows\1.0.AssemblyInfoInputs.cache
+C:\Users\30105350\source\repos\1.0\obj\Debug\net8.0-windows\1.0.AssemblyInfo.cs
+C:\Users\30105350\source\repos\1.0\obj\Debug\net8.0-windows\1.0.csproj.CoreCompileInputs.cache
+C:\Users\30105350\source\repos\1.0\obj\Debug\net8.0-windows\1.0.dll
+C:\Users\30105350\source\repos\1.0\obj\Debug\net8.0-windows\refint\1.0.dll
+C:\Users\30105350\source\repos\1.0\obj\Debug\net8.0-windows\1.0.pdb
+C:\Users\30105350\source\repos\1.0\obj\Debug\net8.0-windows\1.0.genruntimeconfig.cache
+C:\Users\30105350\source\repos\1.0\obj\Debug\net8.0-windows\ref\1.0.dll
